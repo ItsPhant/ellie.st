@@ -1,0 +1,35 @@
+{
+  "name": "ellie.st",
+  "description": "Gatsby default starter",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ellie Phant <itsphant@gmail.com> (ellie.st)",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "gatsby"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItsPhant/ellie.st.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ItsPhant/ellie.st/issues",
+    "email": "itsphant@gmail.com"
+  },
+  "homepage": "https://github.com/ItsPhant/ellie.st#readme",
+  "dependencies": {
+    "gatsby": "^1.9.236",
+    "gatsby-link": "^1.6.39",
+    "gatsby-plugin-react-helmet": "^2.0.8",
+    "react-helmet": "^5.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1",
+    "standard": "*"
+  }
+}
